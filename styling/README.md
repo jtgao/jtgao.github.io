@@ -4,7 +4,7 @@ Select your presets with `data-color` and `data-font` on the `<html>` element in
 
 | Palette | Character |
 | --- | --- |
-| `ocean` | Warm paper, blue-green accents |
+| `ocean` | Warm paper, muted blue accents |
 | `forest` | Soft cream, botanical greens |
 | `plum` | Pale rose, muted plum accents |
 
